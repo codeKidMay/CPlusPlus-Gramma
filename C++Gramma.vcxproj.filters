@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="C++11">
+      <UniqueIdentifier>{56b82b0a-52f3-44e2-9fb5-26f633c4b4d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C++14">
+      <UniqueIdentifier>{abeae142-0a71-45ce-a1a1-21d3265475eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C++17">
+      <UniqueIdentifier>{f74656e3-b154-43d5-a854-5193c591bddb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C++20">
+      <UniqueIdentifier>{05a2cb75-991f-4373-a9a5-ef9c73668f7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include=".Doc">
+      <UniqueIdentifier>{41346d56-c756-40e2-a34c-fe1f800bebc4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cpp11_Advanced_Guide.md">
+      <Filter>.Doc</Filter>
+    </None>
+    <None Include="Cpp14_Advanced_Guide.md">
+      <Filter>.Doc</Filter>
+    </None>
+    <None Include="Cpp17_Advanced_Guide.md">
+      <Filter>.Doc</Filter>
+    </None>
+    <None Include="Cpp20_Advanced_Guide.md">
+      <Filter>.Doc</Filter>
+    </None>
+    <None Include="README.md">
+      <Filter>.Doc</Filter>
+    </None>
+  </ItemGroup>
+</Project>
