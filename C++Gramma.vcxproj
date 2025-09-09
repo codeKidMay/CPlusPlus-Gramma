@@ -175,6 +175,7 @@
     <ClCompile Include="C++23\04_ranges_enhancements.cpp" />
     <ClCompile Include="C++23\05_consteval_unreachable.cpp" />
     <ClCompile Include="C++23\06_type_traits_concepts.cpp" />
+    <ClCompile Include="C++23\07_additional_features.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

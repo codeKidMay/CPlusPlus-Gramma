@@ -167,5 +167,8 @@
     <ClCompile Include="C++23\06_type_traits_concepts.cpp">
       <Filter>C++23</Filter>
     </ClCompile>
+    <ClCompile Include="C++23\07_additional_features.cpp">
+      <Filter>C++23</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
