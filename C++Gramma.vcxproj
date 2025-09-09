@@ -151,6 +151,23 @@
     <ClCompile Include="C++14\07_user_defined_literals.cpp" />
     <ClCompile Include="C++14\08_alias_templates.cpp" />
     <ClCompile Include="C++14\09_metaprogramming_new_features.cpp" />
+    <ClCompile Include="C++17\01_structured_bindings.cpp" />
+    <ClCompile Include="C++17\02_constexpr_if.cpp" />
+    <ClCompile Include="C++17\03_fold_expressions.cpp" />
+    <ClCompile Include="C++17\04_class_template_argument_deduction.cpp" />
+    <ClCompile Include="C++17\05_optional_variant.cpp" />
+    <ClCompile Include="C++17\06_inline_variables.cpp" />
+    <ClCompile Include="C++17\07_string_view.cpp" />
+    <ClCompile Include="C++17\08_parallel_algorithms.cpp" />
+    <ClCompile Include="C++17\09_other_features.cpp" />
+    <ClCompile Include="C++20\01_concepts.cpp" />
+    <ClCompile Include="C++20\02_ranges.cpp" />
+    <ClCompile Include="C++20\03_coroutines.cpp" />
+    <ClCompile Include="C++20\04_consteval_constinit.cpp" />
+    <ClCompile Include="C++20\05_three_way_comparison.cpp" />
+    <ClCompile Include="C++20\06_lambda_enhancements.cpp" />
+    <ClCompile Include="C++20\07_other_features.cpp" />
+    <ClCompile Include="C++20\08_modules.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
