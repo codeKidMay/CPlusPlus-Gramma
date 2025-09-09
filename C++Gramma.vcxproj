@@ -131,6 +131,7 @@
     <None Include="Cpp20_Advanced_Guide.md" />
     <None Include="Cpp23_Advanced_Guide.md" />
     <None Include="README.md" />
+    <None Include="TemplateC++_Advanced_Guide.md" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="C++11\01_rvalue_references_move_semantics.cpp" />
