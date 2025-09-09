@@ -34,4 +34,63 @@
       <Filter>.Doc</Filter>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="C++11\01_rvalue_references_move_semantics.cpp">
+      <Filter>C++11</Filter>
+    </ClCompile>
+    <ClCompile Include="C++11\02_lambda_expressions.cpp">
+      <Filter>C++11</Filter>
+    </ClCompile>
+    <ClCompile Include="C++11\03_smart_pointers_raii.cpp">
+      <Filter>C++11</Filter>
+    </ClCompile>
+    <ClCompile Include="C++11\04_variadic_templates.cpp">
+      <Filter>C++11</Filter>
+    </ClCompile>
+    <ClCompile Include="C++11\05_constexpr_compile_time.cpp">
+      <Filter>C++11</Filter>
+    </ClCompile>
+    <ClCompile Include="C++11\06_decltype_type_deduction.cpp">
+      <Filter>C++11</Filter>
+    </ClCompile>
+    <ClCompile Include="C++11\07_threading_concurrency.cpp">
+      <Filter>C++11</Filter>
+    </ClCompile>
+    <ClCompile Include="C++11\08_uniform_initialization.cpp">
+      <Filter>C++11</Filter>
+    </ClCompile>
+    <ClCompile Include="C++11\09_type_traits_sfinae.cpp">
+      <Filter>C++11</Filter>
+    </ClCompile>
+    <ClCompile Include="C++11\10_scoped_enums.cpp">
+      <Filter>C++11</Filter>
+    </ClCompile>
+    <ClCompile Include="C++14\01_function_return_type_deduction.cpp">
+      <Filter>C++14</Filter>
+    </ClCompile>
+    <ClCompile Include="C++14\02_generalized_lambda_capture.cpp">
+      <Filter>C++14</Filter>
+    </ClCompile>
+    <ClCompile Include="C++14\03_variable_templates.cpp">
+      <Filter>C++14</Filter>
+    </ClCompile>
+    <ClCompile Include="C++14\04_generalized_constexpr_functions.cpp">
+      <Filter>C++14</Filter>
+    </ClCompile>
+    <ClCompile Include="C++14\05_binary_literals_digit_separators.cpp">
+      <Filter>C++14</Filter>
+    </ClCompile>
+    <ClCompile Include="C++14\06_stdlib_new_features.cpp">
+      <Filter>C++14</Filter>
+    </ClCompile>
+    <ClCompile Include="C++14\07_user_defined_literals.cpp">
+      <Filter>C++14</Filter>
+    </ClCompile>
+    <ClCompile Include="C++14\08_alias_templates.cpp">
+      <Filter>C++14</Filter>
+    </ClCompile>
+    <ClCompile Include="C++14\09_metaprogramming_new_features.cpp">
+      <Filter>C++14</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
