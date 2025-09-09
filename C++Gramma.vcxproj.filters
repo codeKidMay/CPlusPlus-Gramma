@@ -13,6 +13,9 @@
     <Filter Include="C++20">
       <UniqueIdentifier>{05a2cb75-991f-4373-a9a5-ef9c73668f7c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="C++23">
+      <UniqueIdentifier>{8b4b3d7e-9f1c-4b7a-8d5e-6f3a2c9e8d1a}</UniqueIdentifier>
+    </Filter>
     <Filter Include=".Doc">
       <UniqueIdentifier>{41346d56-c756-40e2-a34c-fe1f800bebc4}</UniqueIdentifier>
     </Filter>
@@ -28,6 +31,9 @@
       <Filter>.Doc</Filter>
     </None>
     <None Include="Cpp20_Advanced_Guide.md">
+      <Filter>.Doc</Filter>
+    </None>
+    <None Include="Cpp23_Advanced_Guide.md">
       <Filter>.Doc</Filter>
     </None>
     <None Include="README.md">
@@ -142,6 +148,24 @@
     </ClCompile>
     <ClCompile Include="C++20\08_modules.cpp">
       <Filter>C++20</Filter>
+    </ClCompile>
+    <ClCompile Include="C++23\01_expected_error_handling.cpp">
+      <Filter>C++23</Filter>
+    </ClCompile>
+    <ClCompile Include="C++23\02_mdspan_multidimensional.cpp">
+      <Filter>C++23</Filter>
+    </ClCompile>
+    <ClCompile Include="C++23\03_print_modern_output.cpp">
+      <Filter>C++23</Filter>
+    </ClCompile>
+    <ClCompile Include="C++23\04_ranges_enhancements.cpp">
+      <Filter>C++23</Filter>
+    </ClCompile>
+    <ClCompile Include="C++23\05_consteval_unreachable.cpp">
+      <Filter>C++23</Filter>
+    </ClCompile>
+    <ClCompile Include="C++23\06_type_traits_concepts.cpp">
+      <Filter>C++23</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

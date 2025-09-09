@@ -129,6 +129,7 @@
     <None Include="Cpp14_Advanced_Guide.md" />
     <None Include="Cpp17_Advanced_Guide.md" />
     <None Include="Cpp20_Advanced_Guide.md" />
+    <None Include="Cpp23_Advanced_Guide.md" />
     <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
@@ -168,6 +169,12 @@
     <ClCompile Include="C++20\06_lambda_enhancements.cpp" />
     <ClCompile Include="C++20\07_other_features.cpp" />
     <ClCompile Include="C++20\08_modules.cpp" />
+    <ClCompile Include="C++23\01_expected_error_handling.cpp" />
+    <ClCompile Include="C++23\02_mdspan_multidimensional.cpp" />
+    <ClCompile Include="C++23\03_print_modern_output.cpp" />
+    <ClCompile Include="C++23\04_ranges_enhancements.cpp" />
+    <ClCompile Include="C++23\05_consteval_unreachable.cpp" />
+    <ClCompile Include="C++23\06_type_traits_concepts.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
